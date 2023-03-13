@@ -1,7 +1,7 @@
-I'm a Full Stack Developer
+I'm a Full Stack Developer...
 --------------------
 
-Highly experienced full-stack developer with over 13 years of experience working with web technologies. My expertise includes building robust and scalable applications using JavaScript, TypeScript, and Node.js. I'm passionate about creating beautiful and intuitive user experiences that are backed by powerful APIs.
+...with over 13 years of experience working with web technologies. My expertise includes building robust and scalable applications using JavaScript, TypeScript, and Node.js. I'm passionate about creating beautiful and intuitive user experiences that are backed by powerful APIs.
 
 * 🌍  I'm based in Cyprus
 * ✉️  You can contact me at [albelko@pm.me](mailto:albelko@pm.me)
